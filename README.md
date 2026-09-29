@@ -5,7 +5,7 @@ Gra edukacyjna w przeglądarce: 10 zakrętów, 10 działań z tabliczki mnożeni
 ## Zasady
 
 - Działania od 2 × 2 do 9 × 9 (bez mnożenia przez 1 i 10). 3 × 7 i 7 × 3 to osobne zadania.
-- Trzy poziomy: **Łatwy** (6 s na wynik), **Średni** (4 s), **Trudny** (2 s).
+- Trzy poziomy: **Łatwy** (10 s na wynik), **Średni** (6 s), **Trudny** (3 s).
 - Po wyborze poziomu gra odlicza 5 sekund.
 - Wynik wpisujesz z klawiatury i zatwierdzasz Enterem albo czekasz do końca czasu.
 - Każde zadanie to jeden zakręt. Zła odpowiedź albo koniec czasu i samochód rozbija się na bandzie, a gra zaczyna się od nowa.
